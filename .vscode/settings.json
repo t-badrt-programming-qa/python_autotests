@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "autotests_in_the_homework (4. QA_Studio_course_sprint_13_homework_13.2_all_backend_autotests_from_homework)"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
